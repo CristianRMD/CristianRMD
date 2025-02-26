@@ -22,30 +22,14 @@
 - 🌐 **Portfolio Website:** [Visit My Site](https://tu_portafolio.com).  
 - 📊 **Passionate About:** Data engineering, data analytics, and cloud computing.  
 
-## Github Stats
+### ⚙️ &nbsp;GitHub Analytics
 
-
-<center>
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=CristianRMD&&show_icons=true&count_private=true&theme=github_dark&cache_seconds=3600" alt="Estadísticas generales" width="400"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianRMD&layout=compact&theme=github_dark&hide=html,css,jupyter%20notebook,handlebars&cache_seconds=3600" alt="Lenguajes de programación más usados" width="400"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CristianRMD&theme=github_dark" alt="Resumen del perfil" width="400"/>
-    </td>
-    <td>
-      <img src="https://github-contributor-stats.vercel.app/api?username=CristianRMD&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Estadísticas de contribuciones" width="400"/>
-    </td>
-  </tr>
-</table>
-</center>
-
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 ## 🛠 &nbsp;Tech Stack
