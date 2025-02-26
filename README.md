@@ -3,15 +3,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <div align="center">
-
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/cristian-ricardo-morales-damasco-ba83b625a)](https://www.linkedin.com/in/cristian-ricardo-morales-damasco-ba83b625a)[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white&link=https://github.com/CristianRMD)](https://github.com/CristianRMD)[![Gmail Badge](https://img.shields.io/badge/-Gmail-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:cristian.morales1@unmsm.edu.pe)](mailto:cristian.morales1@unmsm.edu.pe)
-
 </div>
-
 <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=50px></picture> **About me**  
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=250px></picture>  
 <br>
-
 - :school: I am a `Junior` at [Faculty of Systems and Computer Engineering](https://sistemas.unmsm.edu.pe/site/index.php) at [National University of San Marcos](https://unmsm.edu.pe/).  
 - :technologist: I love working with data, solving problems, and optimizing processes.  
 - 🎓 **Student:** Currently pursuing a degree in Systems Engineering.  
@@ -28,7 +23,15 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CristianRMD&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
+<a href='https://www.linkedin.com/in/cristian-ricardo-morales-damasco-ba83b625a' target="_blank"> 
+    <img width='32px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
+</a> 
+
+<a href='https://github.com/CristianRMD' target="_blank"> 
+    <img width='32px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
+</a>
 
 
 ## 🛠 &nbsp;Tech Stack
