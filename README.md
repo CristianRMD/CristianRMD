@@ -11,8 +11,7 @@
 - :technologist: I love working with data, solving problems, and optimizing processes.  
 - 🎓 **Student:** Currently pursuing a degree in Systems Engineering.  
 - 🤓 **Lifelong Learner:** Passionate about acquiring new skills and improving my expertise.  
-- 💼 **Open to Opportunities:** Seeking a role as a `Data Engineer`.  
-- 🌐 **Portfolio Website:** [Visit My Site](https://tu_portafolio.com).  
+- 💼 **Open to Opportunities:** Seeking a role as a `Data Engineer` or 'ML Engineer'.  
 - 📊 **Passionate About:** Data engineering, data analytics, and cloud computing.  
 
 ### ⚙️ &nbsp;GitHub Analytics
